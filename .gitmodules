@@ -1,0 +1,6 @@
+[submodule "seer"]
+	path = seer
+	url = https://github.com/caner-cetin/seer.git
+[submodule "oath"]
+	path = oath
+	url = https://github.com/caner-cetin/oath.git
